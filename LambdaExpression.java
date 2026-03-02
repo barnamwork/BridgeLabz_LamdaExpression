@@ -1,5 +1,6 @@
 public class LambdaExpression {
 
+
     @FunctionalInterface
     public interface Validate {
         boolean validate(String str);
